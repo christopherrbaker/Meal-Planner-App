@@ -2,6 +2,8 @@
 
 Welcome to the Meal Planner Application GitHub repository! This project is part of a learning journey on web app development with JavaScript.
 
+You can view this project by clicking [here](https://chrisbaker.dev/portfolio/MealPlannerApp/).
+
 The goal of this project is to create a meal planner application that can store the ingredients for the recipes and calculate data such as a grocery shopping list and nutrients information for the meals planned for the week.
 
 This is a super basic README file, but don't worry, more information will be added as the project progresses.
